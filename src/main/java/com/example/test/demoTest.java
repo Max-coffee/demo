@@ -9,4 +9,5 @@ package com.example.test;
  */
 public class demoTest {
     public int num;
+    public String line;
 }
