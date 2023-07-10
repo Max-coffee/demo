@@ -8,6 +8,7 @@ package com.example.test;
  * @Version 1.0
  */
 public class demoTest {
-    public int num;
+    public int smallNum;
     public String line;
+    public long bigNUm;
 }
